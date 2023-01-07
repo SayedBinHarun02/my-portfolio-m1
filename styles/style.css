@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* button */
+.btn-primary{
+    height: 64px;
+    border-radius: 5px;
+    background: #F15B22;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 600;
+    border: 0;
+    padding: 18px 25px;
+}
+/* Background design */
+/* banner style */
+/* .header{
+    background-image: url("../images/banner/banner2.png");
+    background-repeat: no-repeat;
+    background-size: 100%;}  */
+body{
+    background-image: url("../images/banner/banner2.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+} 
+
+.banner{
+    margin: 216px 5px 365px 845px;
+  
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 65px;
+    color: #151414;
+    margin-bottom: 24px;
+}
+.banner-description{
+    color: #444343;
+    font-weight: 500;
+    font-size: 16px;
+    margin-bottom: 32px;
+
+}
+/* main */
+main{
+    
+    margin: 0 auto;
+   
+}
+/* Failure section Style */
+.failure{
+display: flex;
+justify-content: space-between;
+margin-top: 939px 300px;
+align-items: center;
+ gape:24px;
+}
+.failure-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+.failure-description{
+    color: #444343;
+    font-weight: 400;
+font-size: 16px;
+
+}
+.fl-img{
+    margin-top: 200px ;
+}
+.failure-body{}
+
+/* plan style */
+.section-title{
+    color: #151414;
+    font-weight: 700;
+font-size: 40px;
+text-align: center;
+margin-bottom: 40px;
+}
+.my-plans{
+    margin-top: 130px;
+    text-align: center;
+}
+.skill-container{
+    display: flex;
+    gap:40px;
+    margin-left: 450px;
+}
+.skill-title{
+    font-weight: 700;
+font-size: 30px;
+color: #151414;
+margin-top: 30px;
+
+}
+.skill-description{
+    margin-top: 20px;
+    color: #737272;
+    font-weight: 500;
+font-size: 25px;
+}
+/* Positive Mindset */
+.mindset{
+    background-image: url("../images/watch.png"), url("../images/gradient3.png");
+    background-repeat: no-repeat;
+    margin: 150px 230px 150px 330px;
+    width: 1140px;
+height: 300px;
+   
+
+}
+.mindset-title{
+    color: #FFFFFF;
+    font-weight: 700;
+font-size: 40px;
+margin: 100px 620px 30px 50px;
+}
+.btn-secondary{
+    background: #FFFFFF;
+    font-size: 20px;
+    font-weight: 600;
+    border: 0;
+    margin: 18px 65px;
+    border-radius: 10px;
+    padding: 18px 25px;
+}
