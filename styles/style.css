@@ -116,8 +116,8 @@ height: 300px;
 .mindset-title{
     color: #FFFFFF;
     font-weight: 700;
-font-size: 40px;
-margin: 100px 620px 30px 50px;
+    font-size: 45px;
+    margin: 100px 620px 30px 50px;
 }
 .btn-secondary{
     background: #FFFFFF;
@@ -127,4 +127,52 @@ margin: 100px 620px 30px 50px;
     margin: 18px 65px;
     border-radius: 10px;
     padding: 18px 25px;
+    color: #F15B22;
+}
+/* contact style */
+.future{
+    display: flex;
+   gap: 100px;
+   background-color: #151414; 
+   padding: 130px 200px;
+   
+}
+.future .section-title{
+
+    text-align: left;
+}
+.future input{
+    margin-bottom: 24px;
+    height: 64px;
+    width: 325px;
+    padding: 18px 30px;
+    border-radius: 10px;
+}
+.section-description{
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+margin-bottom: 20px;
+}
+.future-title{
+    color:#FFFFFF;
+    font-weight: 700;
+   font-size: 40px;
+   text-align: left;
+   margin-bottom: 40px;
+}
+.future a{
+    text-decoration: none;
+    margin-left: 10px;
+}
+.btn-subscribe{
+    background: #FFFFFF;
+    font-size: 20px;
+    font-weight: 600;
+   
+    border-radius: 15px;
+    padding: 18px 25px;
+    color: #F15B22;
+
 }
